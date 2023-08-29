@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a flutter developer
+I am a flutter developer.
 
 
 ## 🌐 Socials:
